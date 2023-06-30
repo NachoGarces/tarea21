@@ -1,24 +1,10 @@
-# README
+## Tarea 21 Desafío - Acelerar la construcción de un proyecto
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Implementacion de plantilla galeria con su respectivo HTML, JS y CSS
 
-Things you may want to cover:
+#### ruby 3.1.4p223
 
-* Ruby version
+#### Rails 7.0.4
+## Autor
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [@NachoGarces](https://github.com/NachoGarces)
